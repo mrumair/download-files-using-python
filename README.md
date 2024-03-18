@@ -1,8 +1,8 @@
 ## File Download Optimization
-This README outlines the optimization process for downloading multiple large-sized Python files from URIs using HTTP.
+This README outlines the optimization process for downloading multiple large-sized csv files from URIs using HTTP.
 
 ### Introduction
-In this project, I aimed to download multiple Python files ranging from 49 MB to 220 MB in size from URIs using HTTP. Initially, the files were in zip format, which were then extracted to CSV files. Subsequently, the zip files were deleted to conserve storage space.
+In this project, I aimed to download multiple files ranging from 49 MB to 220 MB in size from URIs using HTTP. Initially, the files were in zip format, which were then extracted to CSV files. Subsequently, the zip files were deleted to conserve storage space.
 
 ### Optimization Process
 #### Initial Approach
